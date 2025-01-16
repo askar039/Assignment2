@@ -15,7 +15,7 @@ public class task_10 {
             multiArray[i] = new int[nn];
         }
         for (int i = 0; i < n; i++) {
-            System.out.println("()".repeat(multiArray[i].length));
+            System.out.println("[]".repeat(multiArray[i].length));
         }
     }
 }
